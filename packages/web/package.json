@@ -1,0 +1,14 @@
+{
+  "name": "@plg-20210502/web",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

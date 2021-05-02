@@ -1,0 +1,7 @@
+{
+  "browser-preview.startUrl": "http://localhost:3000"
+  // "browser-preview.verbose": false // Enable verbose logging of messages sent between VS Code and Chrome instance
+  // "browser-preview.chromeExecutable": // The full path to the executable, including the complete filename of the executable
+  // "browser-preview.format": // Option to set the type of rendering with the support for `jpeg` (default one) and `png` formats
+  // "browser-preview.ignoreHttpsErrors": false // Ignore HTTPS errors if you are using self-signed SSL certificates
+}
