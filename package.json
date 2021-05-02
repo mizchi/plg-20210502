@@ -1,10 +1,19 @@
 {
   "private": true,
   "description": "Test",
+  "scripts": {
+    "test": "pnpm test --parallel --if-present"
+  },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.7",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.0.1",
+    "folio": "0.4.0-alpha6",
+    "jest": "^26.6.3",
     "svelte": "^3.37.0",
     "svelte-preprocess": "^4.7.2",
+    "ts-jest": "^26.5.5",
+    "ts-node": "^9.1.1",
     "typescript": "^4.2.4",
     "vite": "^2.2.3"
   },
