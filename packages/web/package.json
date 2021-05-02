@@ -10,5 +10,10 @@
   "main": "vite.config.js",
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.2.3"
+  }
 }
